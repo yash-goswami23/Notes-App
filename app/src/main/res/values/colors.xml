@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgoundBlue">#195AA6</color>
+    <color name ="backgoundSkyBlue">#4766F0D7</color>
+    <color name="searchViewColor">#45C9B3</color>
+    <color name="note1">#266A6F</color>
+    <color name="note2">#0C0054</color>
+    <color name="note3">#0F1426</color>
+    <color name="note4">#263A6F</color>
+    <color name="note5">#25103F</color>
+    <color name="note6">#331324</color>
+    <color name="actionBtnColor">#015ABE</color>
+
+</resources>
